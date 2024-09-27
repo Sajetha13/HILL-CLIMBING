@@ -40,7 +40,8 @@ Feedback is provided in terms of heuristic function
 <hr>
 
 <h2>Program</h2>
-```
+
+``````
 
 #!/usr/bin/env python
 # coding: utf-8
@@ -91,7 +92,7 @@ def SimpleHillClimbing():
 #print(evaluate(solution,answer))
 SimpleHillClimbing()
 
-```
+``````
 
 <hr>
 <h2>Sample Input and Output</h2>
